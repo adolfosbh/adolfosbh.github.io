@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop in OCL and Textual Modeling</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Workshop in OCL and Textual Modeling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2016 16:12:19 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>http://replace-this-with-your-hugo-site.com/cfp.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:12:19 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/cfp.html</guid>
+      <description>
+
+&lt;h1 id=&#34;call-for-papers:080872b00014e173b9b110b45d1fe315&#34;&gt;Call For Papers&lt;/h1&gt;
+
+&lt;p&gt;Modeling started out with UML and its precursors as a graphical
+notation. Such visual representations enable direct intuitive
+capturing of reality, but some of their features are difficult to
+formalize and lack the level of precision required to create complete
+and unambiguous specifications. Limitations of the graphical notations
+encouraged the development of text-based modeling languages that
+either integrate with or replace graphical notations for
+modeling. Typical examples of such languages are OCL, textual MOF,
+Epsilon, and Alloy. Textual modeling languages have their roots in
+formal language paradigms like logic, programming and databases.&lt;/p&gt;
+
+&lt;p&gt;The goal of this workshop is to create a forum where researchers and
+practitioners interested in building models using OCL or other kinds
+of textual languages can directly interact, report advances, share
+results, identify tools for language development, and discuss
+appropriate standards. In particular, the workshop will encourage
+discussions for achieving synergy from different modeling language
+concepts and modeling language use. The close interaction will enable
+researchers and practitioners to identify common interests and options
+for potential cooperation.&lt;/p&gt;
+
+&lt;h2 id=&#34;topics-of-interest:080872b00014e173b9b110b45d1fe315&#34;&gt;Topics of interest&lt;/h2&gt;
+
+&lt;p&gt;Topics of interest include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mappings between textual modeling languages and other languages/formalisms&lt;/li&gt;
+&lt;li&gt;Algorithms, evaluation strategies and optimizations in the context
+of textual modeling languages for
+
+&lt;ul&gt;
+&lt;li&gt;validation, verification, and testing,&lt;/li&gt;
+&lt;li&gt;model transformation and code generation,&lt;/li&gt;
+&lt;li&gt;meta-modeling and DSLs, and&lt;/li&gt;
+&lt;li&gt;query and constraint specifications&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Alternative graphical/textual notations for textual modeling languages&lt;/li&gt;
+&lt;li&gt;Evolution, transformation and simplification of textual modeling
+expressions&lt;/li&gt;
+&lt;li&gt;Libraries, templates and patterns for textual modeling languages&lt;/li&gt;
+&lt;li&gt;Tools that support textual modeling languages (e.g., verification of
+OCL formulae, runtime monitoring of invariants)&lt;/li&gt;
+&lt;li&gt;Complexity results for textual modeling languages&lt;/li&gt;
+&lt;li&gt;Quality models and benchmarks for comparing and evaluating
+textual modeling tools and algorithms&lt;/li&gt;
+&lt;li&gt;Successful applications of textual modeling languages&lt;/li&gt;
+&lt;li&gt;Case studies on industrial applications of textual modeling languages&lt;/li&gt;
+&lt;li&gt;Experience reports
+
+&lt;ul&gt;
+&lt;li&gt;usage of textual modeling languages and tools in complex domains,&lt;/li&gt;
+&lt;li&gt;usability of textual modeling languages and tools for end-users&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Empirical studies about the benefits and drawbacks of textual modeling
+languages&lt;/li&gt;
+&lt;li&gt;Innovative textual modeling tools&lt;/li&gt;
+&lt;li&gt;Comparison, evaluation and integration of modeling languages&lt;/li&gt;
+&lt;li&gt;Correlation between modeling languages and modeling tasks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This year, we particularly encourage submissions describing tools that
+support - in a very broad sense - textual modeling languages (if you
+have implemented OCL.js to run OCL in a web browser, this is the right
+workshop to present your work) as well as textual model
+transformations.&lt;/p&gt;
+
+&lt;h2 id=&#34;workshop-format:080872b00014e173b9b110b45d1fe315&#34;&gt;Workshop Format&lt;/h2&gt;
+
+&lt;p&gt;The workshop will include short (about 15 min) presentations, parallel
+sessions of working groups, and sum-up discussions.&lt;/p&gt;
+
+&lt;h2 id=&#34;submissions:080872b00014e173b9b110b45d1fe315&#34;&gt;Submissions&lt;/h2&gt;
+
+&lt;p&gt;Two types of papers will be considered:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;short contributions (between 6 and 8 pages) describing new ideas, innovative tools
+or position papers.&lt;/li&gt;
+&lt;li&gt;full papers (between 12 and 16 pages).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;in LNCS format. Submissions should be uploaded to &lt;a href=&#34;https://easychair.org/conferences/?conf=ocl2016&#34;&gt;EasyChair&lt;/a&gt;.
+The program committee will review the submissions (minimum 2 reviews per
+paper, usually 3 reviews) and select papers according to their
+relevance and interest for discussions that will take place at the
+workshop. Accepted papers will be published online in a
+pre-conference edition of &lt;a href=&#34;http://www.ceur-ws.org&#34;&gt;CEUR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;important-dates:080872b00014e173b9b110b45d1fe315&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission of papers:      July 17, 2016&lt;/li&gt;
+&lt;li&gt;Notification:            August 14, 2016&lt;/li&gt;
+&lt;li&gt;Workshop date:         October 2-4, 2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Important dates</title>
+      <link>http://replace-this-with-your-hugo-site.com/dates.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:51:13 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/dates.html</guid>
+      <description>
+
+&lt;h1 id=&#34;important-dates:b659d06311f64e3a6e217223e606256c&#34;&gt;Important Dates&lt;/h1&gt;
+
+&lt;p&gt;The important dates you should bear in mind for the workshop are the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission of papers:      July 17, 2016&lt;/li&gt;
+&lt;li&gt;Notification:            August 14, 2016&lt;/li&gt;
+&lt;li&gt;Workshop date:         October 2-4, 2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Committee</title>
+      <link>http://replace-this-with-your-hugo-site.com/committee.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:54:40 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/committee.html</guid>
+      <description>
+
+&lt;h2 id=&#34;organizers:c4cd42de4057812abf2c33c0ded1049b&#34;&gt;Organizers&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Achim D. Brucker, The University of Sheffield, UK&lt;/li&gt;
+&lt;li&gt;Jordi Cabot, ICREA - Open University of Catalonia, Spain&lt;/li&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, University of York, UK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;programme-committee-tbc:c4cd42de4057812abf2c33c0ded1049b&#34;&gt;Programme Committee (TBC)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thomas Baar, University of Applied Sciences Berlin, Germany&lt;/li&gt;
+&lt;li&gt;Mira Balaban, Ben-Gurion University of the Negev, Israel&lt;/li&gt;
+&lt;li&gt;Tricia Balfe, Nomos Software, Ireland&lt;/li&gt;
+&lt;li&gt;Domenico Bianculli, University of Luxembourg&lt;/li&gt;
+&lt;li&gt;Dan Chiorean, Babes-Bolyai University, Romania&lt;/li&gt;
+&lt;li&gt;Robert Clariso, Universitat Oberta de Catalunya, Spain&lt;/li&gt;
+&lt;li&gt;Tony Clark, Middlesex University, UK&lt;/li&gt;
+&lt;li&gt;Manuel Clavel, IMDEA Software Institute, Spain&lt;/li&gt;
+&lt;li&gt;Birgit Demuth, Technische Universitat Dresden, Germany&lt;/li&gt;
+&lt;li&gt;Marina Egea, Indra Sistemas S.A., Spain&lt;/li&gt;
+&lt;li&gt;Geri Georg, Colorado State University, USA&lt;/li&gt;
+&lt;li&gt;Martin Gogolla, University of Bremen, Germany&lt;/li&gt;
+&lt;li&gt;Shahar Maoz, Tel Aviv University, Israel&lt;/li&gt;
+&lt;li&gt;Istvan Rath, Budapest University of Technology and Economics, Hungary&lt;/li&gt;
+&lt;li&gt;Bernhard Rumpe, RWTH Aachen, Germany&lt;/li&gt;
+&lt;li&gt;Massimo Tisi, Mines de Nantes, France&lt;/li&gt;
+&lt;li&gt;Frederic Tuong, Univ. Paris-Sud - IRT SystemX - LRI, France&lt;/li&gt;
+&lt;li&gt;Edward Willink, Willink Transformations Ltd., UK&lt;/li&gt;
+&lt;li&gt;Burkhart Wolff, Univ. Paris-Sud - LRI, France&lt;/li&gt;
+&lt;li&gt;Steffen Zschaler, King&amp;rsquo;s College, UK&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>http://replace-this-with-your-hugo-site.com/program.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:54:50 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/program.html</guid>
+      <description>&lt;p&gt;The workshop program will be announced in due time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>http://replace-this-with-your-hugo-site.com/registration.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:55:04 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/registration.html</guid>
+      <description>&lt;p&gt;Information about how to register will be announced in due time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local information</title>
+      <link>http://replace-this-with-your-hugo-site.com/localinfo.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:55:14 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/localinfo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://replace-this-with-your-hugo-site.com/contact/contact.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:55:21 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/contact/contact.html</guid>
+      <description>&lt;p&gt;You can contact us at :&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Past Editions</title>
+      <link>http://replace-this-with-your-hugo-site.com/pasteditions.html</link>
+      <pubDate>Fri, 22 Apr 2016 16:55:35 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/pasteditions.html</guid>
+      <description>
+
+&lt;h1 id=&#34;past-editions:d25794a57fd61a913e8d02941e232691&#34;&gt;Past Editions&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocl2015.lri.fr/&#34;&gt;OCL 2015&lt;/a&gt;, Ottawa&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.software.imdea.org/OCL2014/&#34;&gt;OCL 2014&lt;/a&gt;, Valencia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ocl2013.inf.mit.bme.hu/&#34;&gt;OCL 2013&lt;/a&gt;, Miami&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://st.inf.tu-dresden.de/OCL2012/&#34;&gt;OCL 2012&lt;/a&gt;, Innsbruck&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gres.uoc.edu/OCL2011/&#34;&gt;OCL 2011&lt;/a&gt;, Zurich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modeling-languages.com/events/OCLWorkshop2010/&#34;&gt;OCL 2010&lt;/a&gt;, Oslo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modeling-languages.com/events/OCLWorkshop2009/&#34;&gt;OCL 2009&lt;/a&gt;, Colorado&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fots.ua.ac.be/events/ocl2008/&#34;&gt;OCL 2008&lt;/a&gt;, Toulouse&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://st.inf.tu-dresden.de/Ocl4All2007/&#34;&gt;OCL 2007&lt;/a&gt;, Nashville&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://st.inf.tu-dresden.de/OCLApps2006/&#34;&gt;OCL 2006&lt;/a&gt;, Genova&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.175.1503&amp;amp;amp;amp;rep=rep1&amp;amp;amp;amp;type=pdf&#34;&gt;OCL 2005&lt;/a&gt;, Montego Bay&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.kent.ac.uk/projects/ocl/oclmdewsuml04/&#34;&gt;OCL 2004&lt;/a&gt;, Lisbon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.informatik.uni-trier.de/~ley/db/journals/entcs/entcs102.html#Schmitt04&#34;&gt;OCL 2003&lt;/a&gt;, San Francisco&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.toronto.edu/uml2001/workshop.html&#34;&gt;OCL 2001&lt;/a&gt;, Toronto&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.comp.brad.ac.uk/research/OCL2000/index.html&#34;&gt;OCL 2000&lt;/a&gt;, York&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
