@@ -45,7 +45,7 @@ nav ul li {
 /* Header */
 
 header {
-    height: 350px;
+    min-height: 350px;
 }
 
 h1.brand {
@@ -172,7 +172,7 @@ article {
 /* Footer */
 
 footer {
-    height: 68px;
+    min-height: 68px;
 }
 
 footer p {
