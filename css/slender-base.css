@@ -77,6 +77,9 @@ header p a .fa {
     padding-right: 10px;
 }
 
+aside {
+    padding-bottom: 5px;
+}
 /* Pagination */
 
 .pagination {
@@ -163,6 +166,7 @@ article {
     font-size: 18px;
     font-family: Helvetica, sans-serif;
     line-height: 28px;
+    color : #165F57
 }
 
 .article-content * a {
