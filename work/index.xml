@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Adolfo SBH</title>
+    <link>http://adolfosbh.github.io/work/</link>
+    <description>Recent content in Works on Adolfo SBH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <atom:link href="http://adolfosbh.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://adolfosbh.github.io/work/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://adolfosbh.github.io/work/cv/</guid>
+      <description>&lt;p&gt;This site is not designed to expose a detailed Curriculum Vitae. Therefore you
+can access an on-line extended exposition of skills and experience in my &lt;a href=&#34;https://uk.linkedin.com/in/adolfosbh&#34;&gt;linkedin&lt;/a&gt; account
+profile. Here, I provide a brief summary of studies and past work:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Area of Expertise&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Model-Driven Engineering.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;-based and &lt;a href=&#34;https://www.oracle.com/java/index.html&#34;&gt;Java&lt;/a&gt; development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Professional Experience&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Researcher/Technologist at &lt;a href=&#34;http://opencanarias.es/&#34;&gt;Open Canarias S.L&lt;/a&gt;, mainly focused in Model-Driven Engineering. Building Eclipse-based tools. 2007-2012.&lt;/li&gt;
+&lt;li&gt;Researcher at &lt;a href=&#34;http://www.ull.es/&#34;&gt;University of La Laguna&lt;/a&gt;. Research in Software Engineering and Model-Driven Engineering, 2006-2007.&lt;/li&gt;
+&lt;li&gt;Programmer at &lt;a href=&#34;http://jadacom.com&#34;&gt;Jadacom Networks&lt;/a&gt;, mainly developing dynamic web pages, via MySQL and PHP technology, 2005-2006.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Studies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Advanced Studies Diploma (post-graduate), at University of La Laguna, 2007-2008.&lt;/li&gt;
+&lt;li&gt;Master in Software Engineering, at University of La Laguna, 2006-2007.&lt;/li&gt;
+&lt;li&gt;Engineering in Computer Science, at University of La Laguna, 1999-2006.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://adolfosbh.github.io/work/eclipse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://adolfosbh.github.io/work/eclipse/</guid>
+      <description>&lt;p&gt;The main expertise I&amp;rsquo;ve got during my professional career is focused on &lt;a href=&#34;https://www.oracle.com/java/index.html&#34;&gt;Java&lt;/a&gt; and
+&lt;a href=&#34;https://eclipse.org&#34;&gt;Eclipse&lt;/a&gt; plugins development. As a result, I&amp;rsquo;ve done several contributions to different
+open source official Eclipse projects, and promoted as committer in few of them:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/orbit/&#34;&gt;Eclipse Orbit&lt;/a&gt;, main project where third party libraries are maintained as
+consumable bundles for Eclipse projects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mdt.ocl&#34;&gt;Eclipse OCL&lt;/a&gt;, is an implementation of the
+&lt;a href=&#34;http://www.omg.org/spec/OCL/&#34;&gt;Object Constraint Language (OCL)&lt;/a&gt; standard for EMF-based models.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mmt.qvt-oml&#34;&gt;Eclipse QVTo&lt;/a&gt;, a project that provides a partial implementation of the Operational Mappings Language defined by the OMG standard specification &lt;a href=&#34;http://www.omg.org/spec/QVT/&#34;&gt;Query/View/Transformation (QVT)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mmt.qvtd&#34;&gt;Eclipse QVTd&lt;/a&gt;, a project that provides a partial implementation of the Core (QVTc) and Relations (QVTr) Languages defined by the OMG standard specification &lt;a href=&#34;http://www.omg.org/spec/QVT/&#34;&gt;Query/View/Transformation (QVT)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://adolfosbh.github.io/work/omg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://adolfosbh.github.io/work/omg/</guid>
+      <description>&lt;p&gt;As you may find in their web site, &amp;ldquo;Object Management Group (&lt;a href=&#34;http://omg.org&#34;&gt;OMG&lt;/a&gt;) is an international, open membership, not-for-profit technology standards consortium, founded in 1989. OMG standards are driven by vendors, end-users, academic institutions and government agencies. OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries. OMG’s modeling standards, including the Unified Modeling Language® (UML®) and Model Driven Architecture® (MDA®)&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been actively part of the Revision Task Force of varied standards related to Model Driven Engineering, in particular for the Object Constraints Language (&lt;a href=&#34;http://www.omg.org/spec/OCL&#34;&gt;OCL&lt;/a&gt;) and Query/Views/Transformations (&lt;a href=&#34;http://www.omg.org/spec/QVT&#34;&gt;QVT&lt;/a&gt;) specifications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://adolfosbh.github.io/work/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://adolfosbh.github.io/work/publications/</guid>
+      <description>&lt;p&gt;During my doctorate and professional career, I&amp;rsquo;ve collaborated in several publications
+accepted in different national and international venues. A chronologically inverted list of
+recent publications I&amp;rsquo;ve (co-)authored follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward D. Willink and Richard F. Paige.
+&lt;em&gt;A Domain Specific Transformation Language to Bridge Concrete and Abstract Syntax&lt;/em&gt;,
+in proceedings of 9th International Conference on Model Transformations, Vienna, 2016.
+&lt;a href=&#34;TBD&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward D. Willink and Richard F. Paige.
+&lt;em&gt;An OCL-based Bridge from Concrete to Abstract Syntax&lt;/em&gt;,
+in proceedings of 15th International Workshop on OCL and Textual Modeling, Ottawa, 2015.
+&lt;a href=&#34;http://ceur-ws.org/Vol-1512/paper02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera.
+&lt;em&gt;Auto-generation of model visitor frameworks&lt;/em&gt;,
+in proceedings of 1st International Workshop in Patterns in Model Engineering, L&amp;rsquo;Aquila, 2015.
+&lt;a href=&#34;TBD&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera.
+&lt;em&gt;Enhancing Xtext for General Purpose Languages&lt;/em&gt;,
+in proceedings of the Doctoral Symposium at MODELS&amp;rsquo;14, Valencia, 2014.
+&lt;a href=&#34;http://ceur-ws.org/Vol-1321/dsmodels14_5.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward Willink, Richard F. Paige, Louis M. Rose and Dimitrios S. Kolovos.
+&lt;em&gt;Automatic Application of Visitors to Evolving Domain-Specific Languages&lt;/em&gt;,
+in proceedings of 6th York Doctoral Symposium on Computer Science &amp;amp; Electronics, York, 2013.
+&lt;a href=&#34;https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/493/YCS-2014-493.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(To Be Completed)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
