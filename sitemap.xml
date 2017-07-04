@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://adolfosbh.github.io/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://adolfosbh.github.io/work/cv/</loc>
@@ -19,6 +16,26 @@
   
   <url>
     <loc>http://adolfosbh.github.io/work/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://adolfosbh.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adolfosbh.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adolfosbh.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://adolfosbh.github.io/work/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

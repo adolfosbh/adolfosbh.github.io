@@ -6,7 +6,9 @@
     <description>Recent content on Adolfo SBH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <atom:link href="http://adolfosbh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://adolfosbh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -14,33 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://adolfosbh.github.io/work/cv/</guid>
-      <description>&lt;p&gt;This site is not designed to expose a detailed Curriculum Vitae. Therefore you
-can access an on-line extended exposition of skills and experience in my &lt;a href=&#34;https://uk.linkedin.com/in/adolfosbh&#34;&gt;linkedin&lt;/a&gt; account
-profile. Here, I provide a brief summary of studies and past work:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Area of Expertise&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Model-Driven Engineering.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eclipse.org&#34;&gt;Eclipse&lt;/a&gt;-based and &lt;a href=&#34;https://www.oracle.com/java/index.html&#34;&gt;Java&lt;/a&gt; development.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Professional Experience&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Researcher/Technologist at &lt;a href=&#34;http://opencanarias.es/&#34;&gt;Open Canarias S.L&lt;/a&gt;, mainly focused in Model-Driven Engineering. Building Eclipse-based tools. 2007-2012.&lt;/li&gt;
-&lt;li&gt;Researcher at &lt;a href=&#34;http://www.ull.es/&#34;&gt;University of La Laguna&lt;/a&gt;, researching on Software Engineering and Model-Driven Engineering, 2006-2007.&lt;/li&gt;
-&lt;li&gt;Programmer at &lt;a href=&#34;http://www.jadacom.com&#34;&gt;Jadacom Networks&lt;/a&gt;, mainly developing dynamic web pages, using MySQL and PHP technology, 2005-2006.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Studies&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Advanced Studies Diploma (post-graduate), at University of La Laguna, 2007-2008.&lt;/li&gt;
-&lt;li&gt;Master in Software Engineering, at University of La Laguna, 2006-2007.&lt;/li&gt;
-&lt;li&gt;Engineering in Computer Science, at University of La Laguna, 1999-2006.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This site is not designed to expose a detailed Curriculum Vitae. Therefore you can access an on-line extended exposition of skills and experience in my linkedin account profile. Here, I provide a brief summary of studies and past work:
+Area of Expertise
+ Model-Driven Engineering. Eclipse-based and Java development.  Professional Experience
+ Chief Technical Officer at Gaming Experience, mainly focused on managing the technical department that develops the on-line web platform and mobile app that provide services for gamers.</description>
     </item>
     
     <item>
@@ -49,19 +28,8 @@ profile. Here, I provide a brief summary of studies and past work:&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://adolfosbh.github.io/work/eclipse/</guid>
-      <description>&lt;p&gt;The main expertise I&amp;rsquo;ve got during my professional career is focused on &lt;a href=&#34;https://www.oracle.com/java/index.html&#34;&gt;Java&lt;/a&gt; and
-&lt;a href=&#34;https://eclipse.org&#34;&gt;Eclipse&lt;/a&gt; plugins development. As a result, I&amp;rsquo;ve done several contributions to different
-open source official Eclipse projects, and promoted as committer in few of them:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/orbit/&#34;&gt;Eclipse Orbit&lt;/a&gt;, main project where third party libraries are maintained as
-consumable bundles for Eclipse projects.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mdt.ocl&#34;&gt;Eclipse OCL&lt;/a&gt;, is an implementation of the
-&lt;a href=&#34;http://www.omg.org/spec/OCL/&#34;&gt;Object Constraint Language (OCL)&lt;/a&gt; standard for EMF-based models.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mmt.qvt-oml&#34;&gt;Eclipse QVTo&lt;/a&gt;, a project that provides a partial implementation of the Operational Mappings Language defined by the OMG standard specification &lt;a href=&#34;http://www.omg.org/spec/QVT/&#34;&gt;Query/View/Transformation (QVT)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projects.eclipse.org/projects/modeling.mmt.qvtd&#34;&gt;Eclipse QVTd&lt;/a&gt;, a project that provides a partial implementation of the Core (QVTc) and Relations (QVTr) Languages defined by the OMG standard specification &lt;a href=&#34;http://www.omg.org/spec/QVT/&#34;&gt;Query/View/Transformation (QVT)&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>The main expertise I&amp;rsquo;ve got during my professional career is focused on Java and Eclipse plugins development. As a result, I&amp;rsquo;ve done several contributions to different open source official Eclipse projects, and promoted as committer in few of them:
+ Eclipse Orbit, main project where third party libraries are maintained as consumable bundles for Eclipse projects. Eclipse OCL, is an implementation of the Object Constraint Language (OCL) standard for EMF-based models.</description>
     </item>
     
     <item>
@@ -70,10 +38,7 @@ consumable bundles for Eclipse projects.&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://adolfosbh.github.io/work/omg/</guid>
-      <description>&lt;p&gt;As you may find in their web site, &amp;ldquo;Object Management Group (&lt;a href=&#34;http://omg.org&#34;&gt;OMG&lt;/a&gt;) is an international, open membership, not-for-profit technology standards consortium, founded in 1989. OMG standards are driven by vendors, end-users, academic institutions and government agencies. OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries. OMG’s modeling standards, including the Unified Modeling Language® (UML®) and Model Driven Architecture® (MDA®)&amp;ldquo;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been actively part of the Revision Task Force of varied standards related to Model Driven Engineering, in particular for the Object Constraints Language (&lt;a href=&#34;http://www.omg.org/spec/OCL&#34;&gt;OCL&lt;/a&gt;) and Query/Views/Transformations (&lt;a href=&#34;http://www.omg.org/spec/QVT&#34;&gt;QVT&lt;/a&gt;) specifications.&lt;/p&gt;
-</description>
+      <description>As you may find in their web site, &amp;ldquo;Object Management Group (OMG) is an international, open membership, not-for-profit technology standards consortium, founded in 1989. OMG standards are driven by vendors, end-users, academic institutions and government agencies. OMG Task Forces develop enterprise integration standards for a wide range of technologies and an even wider range of industries. OMG’s modeling standards, including the Unified Modeling Language® (UML®) and Model Driven Architecture® (MDA®)&amp;ldquo;.</description>
     </item>
     
     <item>
@@ -82,130 +47,9 @@ consumable bundles for Eclipse projects.&lt;/li&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://adolfosbh.github.io/work/publications/</guid>
-      <description>
-
-&lt;p&gt;During my doctorate and professional career, I&amp;rsquo;ve collaborated in several publications
-accepted in different national and international venues. A chronologically inverted list of
-recent publications I&amp;rsquo;ve (co-)authored follows:&lt;/p&gt;
-
-&lt;h4 id=&#34;2016&#34;&gt;2016&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Achim D. Brucker, Jordi Cabot, Gwendal Daniel, Martin Gogolla, Adolfo Sánchez-Barbudo Herrera, Frank Hilken, Frédéric Tuong, Edward D. Willink, Burkhart Wolff.
-&lt;em&gt;Recent Developments in OCL and Textual Modelling&lt;/em&gt;,
-in proceedings of 16th International Workshop on OCL and Textual Modeling, Saint-Malo.
-&lt;a href=&#34;http://ceur-ws.org/Vol-1756/paper12.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward D. Willink and Richard F. Paige.
-&lt;em&gt;A Domain Specific Transformation Language to Bridge Concrete and Abstract Syntax&lt;/em&gt;,
-in proceedings of 9th International Conference on Model Transformations, Vienna.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/ICMT2016_DSTLToBridgeCSAndAS.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2015&#34;&gt;2015&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward D. Willink and Richard F. Paige.
-&lt;em&gt;An OCL-based Bridge from Concrete to Abstract Syntax&lt;/em&gt;,
-in proceedings of 15th International Workshop on OCL and Textual Modeling, Ottawa.
-&lt;a href=&#34;http://ceur-ws.org/Vol-1512/paper02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera.
-&lt;em&gt;Auto-generation of model visitor frameworks&lt;/em&gt;,
-in proceedings of 1st International Workshop in Patterns in Model Engineering, L&amp;rsquo;Aquila.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/PAME2015_AutoGenerationOfModelVisitorFrameworks.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2014&#34;&gt;2014&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera.
-&lt;em&gt;Enhancing Xtext for General Purpose Languages&lt;/em&gt;,
-in proceedings of the Doctoral Symposium at MODELS&amp;rsquo;14, Valencia.
-&lt;a href=&#34;http://ceur-ws.org/Vol-1321/dsmodels14_5.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2013&#34;&gt;2013&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Edward Willink, Richard F. Paige, Louis M. Rose and Dimitrios S. Kolovos.
-&lt;em&gt;Automatic Application of Visitors to Evolving Domain-Specific Languages&lt;/em&gt;,
-in proceedings of 6th York Doctoral Symposium on Computer Science &amp;amp; Electronics, York.
-&lt;a href=&#34;https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/493/YCS-2014-493.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ran Wei, Adolfo Sánchez-Barbudo Herrera, Babajide Ogunyomi, Louis M. Rose and Dimitrios S. Kolovos.
-&lt;em&gt;An Epsilon Solution to the TTC 2013 Flowgraphs Case&lt;/em&gt;,
-presented at Transformation Tool Contest 2013, STAF&amp;rsquo;13, Budapest, Hungary.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/TTC2013_FlowGraphsSolution.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Orlando Avila Garcia, Adolfo Sanchez-Barbudo Herrera, Miguel de Vega Rodrigo, Antonio Estevez,
-&lt;em&gt;Modernización Dirigida por la Arquitectura en la Transformación de un Core Bancario (Architecture-Driven Modernization in a Core Banking Transformation)&lt;/em&gt;,
-Chapter of Book &lt;em&gt;Desarrollo de Software Dirigido por Modelos: Conceptos, Métodos y Herramientas (Model Driven Software Development: Concepts, Methods and Tools)&lt;/em&gt;, RA-MA editorial, January 2013.
-(Spanish) &lt;a href=&#34;http://www.ra-ma.es/libros/DESARROLLO-DE-SOFTWARE-DIRIGIDO-POR-MODELOS-CONCEPTOS-METODOS-Y-HERRAMIENTAS/82019/978-84-9964-215-4&#34;&gt;URL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2012&#34;&gt;2012&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jesus Sánchez Cuadrado, Orlando Avila-Garcia, Javier Luis Canovas Izquierdo and Adolfo Sánchez-Barbudo Herrera,
-&lt;em&gt;Parametrización de las transformaciones horizontales en el modelo de herradura (Parameterization of horizontal transformations in the Horseshoe model)&lt;/em&gt;,
-Jornadas de Ingenieria del Software y Bases de Datos (JISBD&amp;rsquo;2012), Almeria, España.
-(Spanish) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-00716442/document&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2010&#34;&gt;2010&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Axel Uhl, Edward D. Willink.
-&lt;em&gt;Enriching your models using OCL&lt;/em&gt;,
-presented at Eclipse Summit Europe 2010, Ludwigsburg, Germany.
-&lt;a href=&#34;http://es.slideshare.net/adolfosbh/enriching&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2009&#34;&gt;2009&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera.
-&lt;em&gt;Reusing FEFEM for forms based editors generation&lt;/em&gt;,
-presented during the MoskittDay-EclipseDay&amp;rsquo;09, Valencia, Spain.
-&lt;a href=&#34;http://es.slideshare.net/adolfosbh/reusing-fefem-in-formbased-model-editor-generation-2651499&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Orlando Avila-García, Adolfo Sánchez-Barbudo, Víctor Roldán, Carlos González and Antonio Estévez,
-&lt;em&gt;TEMPO: Una herramienta para la reutilizacion efectiva en la ingenieria de procesos software (A tool for the effective reuse in the software processes engineering)&lt;/em&gt;,
-in proceedings of XIV JISBD&amp;rsquo;09 conference, 81-84, San Sebastian, Spain.
-(Spanish) &lt;a href=&#34;http://adolfosbh.github.io/publications/JISBD2009_TEMPO.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2008&#34;&gt;2008&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Victor Sánchez, Jose Luis Roda, Adolfo Sánchez-Barbudo Herrera and Antonio Estevez,
-&lt;em&gt;Using a Virtual-Machine Strategy to Enhance Model Transformation Experiences&lt;/em&gt;,
-in proceedings of the Doctoral Symposium at 11th International Conference MoDELS 2008, pp 908-909, Toulouse, France.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/MoDELS2008_UsingAVirtualMachineStrategyToEnhanceModelTransformationExperiences.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Adolfo Sánchez-Barbudo Herrera, Victor Sánchez, Víctor Roldán, Antonio Estévez and Jose Luis Roda-García,
-&lt;em&gt;Providing an Open Virtual-Machine-based QVT Implementation.&lt;/em&gt;
-In proceedings of the V Model Driven Software Development Workshop, Vol 2. Nº 3, pp 42-51, Gijón, Spain.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/DSDM2008_ProvidingAnOpenVirtualMachineBasedQVT.pdf&#34;&gt;PDF&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;V. Roldán Betancort, E.V. Sánchez Rebull, O. Ávila-García, A. Sánchez-Barbudo.
-&lt;em&gt;Overcoming the difficulties of implementing a QVT execution solution&lt;/em&gt;.
-Position paper presented the OMG/Eclipse Symposium celebrated in both: the EclipseCON 2008, 20th March, Santa Clara, California and the OMG Technichal Meeting, 25th June,  Ottawa, Canada.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/EclipseCon2008_QVTOvercomingDifficulties_Abstract.pdf&#34;&gt;PDF&lt;/a&gt;
-&lt;a href=&#34;http://adolfosbh.github.io/publications/EclipseCon2008_QVTOvercomingDifficulties_Slides.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Edward D. Willink and Adolfo Sánchez-Barbudo Herrera,
-&lt;em&gt;Multi-Page QVT Editors&lt;/em&gt;,
-Position paper presented in the OMG/Eclipse Symposium celebrated in the EclipseCON 2008, Santa Clara, California.
-&lt;a href=&#34;http://adolfosbh.github.io/publications/EclipseCon2008_MultiPageQVTEditors.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Edward D. Willink, Adolfo Sánchez-Barbudo Herrera and Christian W. Damus,
-&lt;em&gt;Exploiting MDT OCL for QVT&lt;/em&gt;,
-position paper presented at the OMG/Eclipse Simposia celebrated in the EclipseCON 2008, Santa Clara, California
-&lt;a href=&#34;http://adolfosbh.github.io/publications/EclipseCon2008_MDTOCLforQVT.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;2007&#34;&gt;2007&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A. Estévez García, E.V. Sánchez Rebull, A. Sánchez-Barbudo Herrera, J.L. Roda García, F. Vargas Ruiz, O. Avila-García,
-&lt;em&gt;ModelSET: Soporte a Edición y Transformaciones de Modelos (Models Edition and Transformation Support)&lt;/em&gt;,
-Demo presented at the XII Conference in Software Engineering and Data Bases (JISBD&amp;rsquo;2007), pp. 397-398, Zaragoza, Spain.
-(Spanish) &lt;a href=&#34;http://adolfosbh.github.io/publications/JISBD2007_ModelSETModelsEditionAndTransformationSupport.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>During my doctorate and professional career, I&amp;rsquo;ve collaborated in several publications accepted in different national and international venues. A chronologically inverted list of recent publications I&amp;rsquo;ve (co-)authored follows:
+2017  Adolfo Sánchez-Barbudo Herrera (supervised by Richard F. Paige and Edward D. Willink) Auto-tooling to bridge the concrete and abstract syntax of complex textual modeling languages, Thesis of my Engineering Doctorate Graduate, May 2017. PDF
+2016 Achim D. Brucker, Jordi Cabot, Gwendal Daniel, Martin Gogolla, Adolfo Sánchez-Barbudo Herrera, Frank Hilken, Frédéric Tuong, Edward D.</description>
     </item>
     
   </channel>
